@@ -15,7 +15,7 @@ It assumes your BT Whole Home WiFi's admin panel is running on `192.168.1.1`.
 
 There is an accompanying Grafana dashboard you can get at [grafana.com/grafana/dashboards/15119](https://grafana.com/grafana/dashboards/15119).
 
-![Example of what the Grafana dashboard looks like](dashboard.jpg)
+![Example of what the Grafana dashboard looks like](dashboard.png)
 
 ## Maintainance warning
 
